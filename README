@@ -1,0 +1,8 @@
+通讯录服务端 前端采用VUE 存放在VUE_PROJECT中
+服务端架构模式：Springboot,MyBatis
+用到的组件/插件：
+  logback 日志框架
+  PinYin 获取中文全拼
+  JWT    生成及解析TOKEN
+
+数据库 mysql (数据库SQL上传到前端项目中)
